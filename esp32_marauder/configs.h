@@ -4,7 +4,7 @@
 
   #define configs_h
 
-  #define POLISH_POTATO
+  #define MARAUDER_FLIPPER
 
   //// BOARD TARGETS
   //#define MARAUDER_M5STICKC
